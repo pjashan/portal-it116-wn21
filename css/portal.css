@@ -80,6 +80,7 @@ footer {
     }
   
 }
+
 .c{
     width: 100%;
     float: right;
@@ -90,7 +91,11 @@ footer {
 .p{
     width: 100%;
     height: 610px;
+<<<<<<< HEAD
    
+=======
+    margin-left: 0em;
+>>>>>>> ae3e57e79aa35ca0866c5f541bb729cb12525737
     margin-top: 10px;
     box-shadow: 2px 2px 10px 2px black ;
 
